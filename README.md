@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: 
 
-<p align="left" style="padding-left: 30px">
+<p>
   <a href="https://www.linkedin.com/in/lucasdavidoj/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -45,12 +45,12 @@
 
 ## 📈 My Github Stats
 
-<p style="display:flex">
+<p align="center">
   <a href="https://github.com/lucasdavidoj" target="_blank">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavidoj&theme=nightowl&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdavidoj&show_icons=true&theme=nightowl&hide=contribs,prs,issues&count_private=true&hide_border=true"/>
   </a>
   <a href="https://github.com/lucasdavidoj" target="_blank">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=lucasdavidoj&show_icons=true&theme=nightowl&hide=contribs,prs,issues&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavidoj&theme=nightowl&hide_border=true"/>
   </a>
 </p>
 
