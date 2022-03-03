@@ -47,11 +47,8 @@
 
 <p align="center">
   <a href="https://github.com/lucasdavidoj" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdavidoj&show_icons=true&theme=nightowl&hide=contribs,prs,issues&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/lucasdavidoj" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavidoj&theme=nightowl&hide_border=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdavidoj&show_icons=true&theme=nightowl&hide=contribs,prs,issues&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavidoj&theme=nightowl&hide_border=true"/>
 </p>
 
 
