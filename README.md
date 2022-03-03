@@ -27,26 +27,26 @@
 ## 🚀 Languages and Tools
 
 <p>
-  <img src="./icons/nodejs.png" alt="NodeJS" width="64"/>
-  <img src="./icons/typescript.png" alt="TypeScript" width="64"/>
-  <img src="./icons/javascript.png" alt="JavaScript" width="64"/>
-  <img src="./icons/python.png" alt="Python" width="64"/>
-  <img src="./icons/git.png" alt="Git" width="64"/>
-  <img src="./icons/docker.png" alt="MySQL" width="64"/>
-  <img src="./icons/arduino.png" alt="Arduino" width="64"/>
-  <img src="./icons/raspberrypi.png" alt="Raspberry Pi" width="64"/>
-  <img src="./icons/linux.png" alt="Linux" width="64"/>
-  <img src="./icons/vscode.png" alt="Visual Studio Code" width="64"/>
-  <img src="./icons/postgres.png" alt="Postgres" width="64"/>
-  <img src="./icons/mysql.png" alt="MySQL" width="64"/>
+  <img src="./icons/nodejs.png" alt="NodeJS" width="48"/>
+  <img src="./icons/typescript.png" alt="TypeScript" width="48"/>
+  <img src="./icons/javascript.png" alt="JavaScript" width="48"/>
+  <img src="./icons/python.png" alt="Python" width="48"/>
+  <img src="./icons/git.png" alt="Git" width="48"/>
+  <img src="./icons/docker.png" alt="MySQL" width="48"/>
+  <img src="./icons/arduino.png" alt="Arduino" width="48"/>
+  <img src="./icons/raspberrypi.png" alt="Raspberry Pi" width="48"/>
+  <img src="./icons/linux.png" alt="Linux" width="48"/>
+  <img src="./icons/vscode.png" alt="Visual Studio Code" width="48"/>
+  <img src="./icons/postgres.png" alt="Postgres" width="48"/>
+  <img src="./icons/mysql.png" alt="MySQL" width="48"/>
 <p>
 
-</br>
+</br>  
 
 ## 📈 My Github Stats
 
-<div align="center">
+<p>
   <a href="https://github.com/lucasdavidoj" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdavidoj&show_icons=true&theme=nightowl&hide=contribs,prs,issues&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavidoj&theme=nightowl&hide_border=true&layout=compact"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdavidoj&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavidoj&theme=nightowl&hide_border=true"/>
+<p>
