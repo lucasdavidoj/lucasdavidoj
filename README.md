@@ -4,9 +4,7 @@
 
 - 🔭 I'm currently looking for a job in Backend Development
 
-- 🌱 I’m currently learning about NodeJS and TypeScript
-
-- 🤔 I’m looking to collaborate on [StackOverflow](https://pt.stackoverflow.com/)
+- 🌱 I’m currently learning about Python
 
 - 📫 How to reach me: 
 
@@ -27,10 +25,8 @@
 ## 🚀 Languages and Tools
 
 <p>
-  <img src="./icons/nodejs.png" alt="NodeJS" width="48"/>
-  <img src="./icons/typescript.png" alt="TypeScript" width="48"/>
-  <img src="./icons/javascript.png" alt="JavaScript" width="48"/>
   <img src="./icons/python.png" alt="Python" width="48"/>
+  <img src="./icons/javascript.png" alt="JavaScript" width="48"/>
   <img src="./icons/git.png" alt="Git" width="48"/>
   <img src="./icons/docker.png" alt="MySQL" width="48"/>
   <img src="./icons/arduino.png" alt="Arduino" width="48"/>
