@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently looking for a job in Backend Development
 
-- 🌱 I’m currently learning about Python
+- 🌱 I’m currently learning more about Python
 
 - 📫 How to reach me: 
 
